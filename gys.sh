@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 echo -n "Please input the first integer: "
 read arg1
 
