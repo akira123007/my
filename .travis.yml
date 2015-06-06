@@ -1,12 +1,14 @@
 sudo: required
 
-
+addons:
+  sauce_connect:
+    username: "akira123007"
+    access_key: "MLsopd5XhdKk"
 
 
 
 language: generic
 script:
   - bash -e ./gys.sh
-  ls
-  uname
+ 
   
