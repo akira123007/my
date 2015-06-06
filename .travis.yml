@@ -6,5 +6,7 @@ sudo: required
 
 language: generic
 script:
-  - bash -e ./gys.sh 2 3
+  - bash -e ./gys.sh
+  ls
+  uname
   
