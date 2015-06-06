@@ -18,5 +18,5 @@ before_install:
 
 language: generic
 script:
-  - bash -e ./gys.sh
+  - bash -e ./gys.sh 2 3
   
