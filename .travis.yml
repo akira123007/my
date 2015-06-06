@@ -12,6 +12,6 @@ script:
   - bash -e ./gys.sh
  
   
-after_script:2
-
-after_script:3
+after_script:
+  - 3
+  - 6
